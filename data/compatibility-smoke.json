@@ -1,0 +1,153 @@
+{
+  "status": "uncertain",
+  "warnings": [
+    {
+      "code": "missing_ph",
+      "severity": "unknown",
+      "message": "pH: ficha ausente ou suspeita para Peixe Abelhinha, Camarão Red Sakura",
+      "species": [
+        "fd6fb795dbc0c857",
+        "76c86df3c72d4cc3"
+      ],
+      "sources": [
+        "https://www.kauar.com.br/agua-doce/asiaticos/abelhinha-brachygobius-xanthozonus",
+        "https://www.kauar.com.br/agua-doce/camaroes/camarao-red-sakura-neocaridina-heteropoda"
+      ]
+    },
+    {
+      "code": "missing_temperature",
+      "severity": "unknown",
+      "message": "temperatura: ficha ausente ou suspeita para Peixe Abelhinha",
+      "species": [
+        "fd6fb795dbc0c857"
+      ],
+      "sources": [
+        "https://www.kauar.com.br/agua-doce/asiaticos/abelhinha-brachygobius-xanthozonus"
+      ]
+    },
+    {
+      "code": "incomplete_facts",
+      "severity": "unknown",
+      "message": "Peixe Abelhinha: confirmar tipo de água/salinidade, temperamento, alimentação, tamanho adulto.",
+      "species": [
+        "fd6fb795dbc0c857"
+      ],
+      "sources": [
+        "https://www.kauar.com.br/agua-doce/asiaticos/abelhinha-brachygobius-xanthozonus"
+      ]
+    },
+    {
+      "code": "incomplete_facts",
+      "severity": "unknown",
+      "message": "Camarão Red Sakura: confirmar tipo de água/salinidade, temperamento, alimentação, tamanho adulto.",
+      "species": [
+        "76c86df3c72d4cc3"
+      ],
+      "sources": [
+        "https://www.kauar.com.br/agua-doce/camaroes/camarao-red-sakura-neocaridina-heteropoda"
+      ]
+    },
+    {
+      "code": "incomplete_facts",
+      "severity": "unknown",
+      "message": "Anúbia Nana: confirmar tipo de água/salinidade.",
+      "species": [
+        "87db7c1cbf705a85"
+      ],
+      "sources": [
+        "https://www.kauar.com.br/aquapaisagismo/botanicos/anubia-nana-anubias-barteri"
+      ]
+    }
+  ],
+  "ranges": {
+    "ph": {
+      "min": 5.7,
+      "max": 8.0,
+      "complete": false,
+      "overlap": true
+    },
+    "temperature": {
+      "min": 21.0,
+      "max": 27.0,
+      "complete": false,
+      "overlap": true
+    }
+  },
+  "evidence": [
+    {
+      "id": "fd6fb795dbc0c857",
+      "url": "https://www.kauar.com.br/agua-doce/asiaticos/abelhinha-brachygobius-xanthozonus",
+      "facts": {
+        "ph": null,
+        "temperature": null,
+        "water": null,
+        "temperament": null,
+        "diet": null,
+        "size_cm": null
+      },
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte",
+        "Tipo de água ambíguo: texto menciona mais de um regime de salinidade"
+      ]
+    },
+    {
+      "id": "76c86df3c72d4cc3",
+      "url": "https://www.kauar.com.br/agua-doce/camaroes/camarao-red-sakura-neocaridina-heteropoda",
+      "facts": {
+        "ph": null,
+        "temperature": [
+          21.0,
+          27.0
+        ],
+        "water": null,
+        "temperament": null,
+        "diet": null,
+        "size_cm": null
+      },
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "87db7c1cbf705a85",
+      "url": "https://www.kauar.com.br/aquapaisagismo/botanicos/anubia-nana-anubias-barteri",
+      "facts": {
+        "ph": [
+          5.7,
+          8.0
+        ],
+        "temperature": [
+          20.0,
+          30.0
+        ],
+        "water": null,
+        "temperament": null,
+        "diet": null,
+        "size_cm": null
+      },
+      "issues": []
+    }
+  ],
+  "scope": "Triagem baseada nas fichas; não avalia volume, lotação, sexo, GH/KH, reprodução ou tamanho de cardume.",
+  "retrieved": [
+    {
+      "id": "87db7c1cbf705a85",
+      "url": "https://www.kauar.com.br/aquapaisagismo/botanicos/anubia-nana-anubias-barteri",
+      "text": "nome_popular: Anúbia Nana\nnome_cientifico: Anubias barteri\nph: 5.7 a 8.0\ntemperatura_ideal: 20 a 30ºC\nsociabilidade: não informado\nalimentacao: não informado\ntamanho_adulto: não informado\norigem: não informado\nfamilia: não informado\niluminacao: fraca a média\nco2: não informado\nParâmetros validados: {\"ph\": [5.7, 8.0], \"temperature\": [20.0, 30.0], \"water\": null, \"temperament\": null, \"diet\": null, \"size_cm\": null}\nIncertezas: ",
+      "distance": 0.8182743191719055
+    },
+    {
+      "id": "fd6fb795dbc0c857",
+      "url": "https://www.kauar.com.br/agua-doce/asiaticos/abelhinha-brachygobius-xanthozonus",
+      "text": "nome_popular: Peixe Abelhinha\nnome_cientifico: Brachygobius doriae\nph: 6,8\ntemperatura_ideal: 7 a 8.5\nsociabilidade: o peixe Abelhinha\nalimentacao: não informado\ntamanho_adulto: não informado\norigem: não informado\nfamilia: não informado\niluminacao: não informado\nco2: não informado\nParâmetros validados: {\"ph\": null, \"temperature\": null, \"water\": null, \"temperament\": null, \"diet\": null, \"size_cm\": null}\nIncertezas: ph: valor pontual não estabelece faixa de tolerância; verificar fonte; temperature: ausente ou fora dos limites de triagem; verificar fonte; Tipo de água ambíguo: texto menciona mais de um regime de salinidade",
+      "distance": 0.919396162033081
+    },
+    {
+      "id": "76c86df3c72d4cc3",
+      "url": "https://www.kauar.com.br/agua-doce/camaroes/camarao-red-sakura-neocaridina-heteropoda",
+      "text": "nome_popular: Camarão Red Sakura\nnome_cientifico: Neocaridina davidi\nph: 6,5\ntemperatura_ideal: 21ºC e 27ºC\nsociabilidade: não informado\nalimentacao: não informado\ntamanho_adulto: não informado\norigem: não informado\nfamilia: não informado\niluminacao: não informado\nco2: não informado\nParâmetros validados: {\"ph\": null, \"temperature\": [21.0, 27.0], \"water\": null, \"temperament\": null, \"diet\": null, \"size_cm\": null}\nIncertezas: ph: valor pontual não estabelece faixa de tolerância; verificar fonte",
+      "distance": 1.1784316301345825
+    }
+  ]
+}

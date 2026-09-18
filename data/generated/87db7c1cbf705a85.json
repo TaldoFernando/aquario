@@ -1,0 +1,19 @@
+{
+  "id": "87db7c1cbf705a85",
+  "name": "Anúbia Nana",
+  "source_url": "https://images.tcdn.com.br/img/img_prod/749804/anubia_nana_anubias_barteri_porcao_2339_1_b24a6b0a4b406a496288b50474faed76.jpg",
+  "source_sha256": "d0ad083a44c43478d2b2191b6e1186b0d2cf7ea3da573e9c198221636c4b3a3c",
+  "backend": "teacher-reference",
+  "backend_fingerprint": "e4b830750cb2b282ccf640108adbc1736323f18c3c28c0a8c37f6fe499cc3172",
+  "style": "aquario-v1",
+  "prompt": "AQPIX aquarium game sprite. Image 1 is the product identity reference. Additional images, if present, are STYLE ONLY: never copy their species. Exactly one isolated organism, anatomically recognizable. Fish and shrimp in horizontal orthographic side view facing RIGHT; plants upright, roots at bottom. Light from upper LEFT. Chunky 96x96 pixel art, one pixel dark navy contour, flat limited palette, hard stepped edges, no gradients, no dithering, no antialiasing. Center with 12 percent margin. Solid pure white background, no shadow, no scenery, no labels, no watermark. Preserve species markings. Subject: Anúbia Nana; Anubias barteri; category: plant.",
+  "seed": 2279308316,
+  "fingerprint": "b0e3a317fa22d81dae0a1c483b9b79aceb92d367a69489361418c2174b560528",
+  "qa": {
+    "colors": 14,
+    "occupancy": 0.3478,
+    "grid": 96,
+    "alpha": "binary"
+  },
+  "semantic_review": "required"
+}

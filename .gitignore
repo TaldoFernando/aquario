@@ -1,0 +1,38 @@
+# Local Python environments and caches
+.venv/
+.venv_*/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.DS_Store
+
+# Model and dependency caches
+data/cache/
+.cache/
+.u2net/
+notebooks/DiffSynth-Studio/
+
+# Local generated outputs and experiments
+output/
+sprites_teste/
+production_input/
+production_output/
+pixel_lora/
+dataset_aquario/
+
+# Local credentials and runtime files
+.env
+.env.*
+*.log
+.venv/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+data/index/
+data/cache/
+data/jobs.sqlite*
+models/
+.env
+node_modules/
+.venv-qwen/
+output/

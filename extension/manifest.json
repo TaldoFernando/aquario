@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Aquário • um respiro na sua tela",
+  "version": "0.2.0",
+  "description": "Um pequeno aquário em pixel art, com luz solar local e escala real dos habitantes.",
+  "permissions": ["storage", "activeTab", "scripting"],
+  "optional_permissions": ["geolocation"],
+  "icons": {"16": "icons/16.png", "32": "icons/32.png", "48": "icons/48.png", "128": "icons/128.png"},
+  "action": {"default_title": "Abrir meu aquário", "default_popup": "popup.html", "default_icon": {"16": "icons/16.png", "32": "icons/32.png", "48": "icons/48.png", "128": "icons/128.png"}},
+  "background": {"service_worker": "background.js"},
+  "web_accessible_resources": [{"resources": ["assets/*.png", "assets/catalog.json"], "matches": ["http://*/*", "https://*/*"]}],
+  "content_security_policy": {"extension_pages": "script-src 'self'; object-src 'self'"}
+}

@@ -1,0 +1,11 @@
+# Python 3.11 recommended. Install PyTorch for your CUDA platform first if needed.
+torch>=2.6,<3
+diffusers==0.36.0
+transformers>=4.51,<5
+accelerate>=1.5,<2
+safetensors>=0.4.5,<1
+Pillow>=10,<12
+numpy>=1.26,<3
+# Optional foreground segmentation used by --remove-background.
+rembg[cpu]>=2.0.60,<3
+peft>=0.15,<1

@@ -1,0 +1,19 @@
+{
+  "id": "76c86df3c72d4cc3",
+  "name": "Camarão Red Sakura",
+  "source_url": "https://images.tcdn.com.br/img/img_prod/749804/camarao_red_sakura_1_a_2_cm_neocaridina_davidi_875_1_256181d48cb7c9d73be024e5cd8e22ad.jpg",
+  "source_sha256": "ade94603b9477967302f06e8b954801760f66ac0b2e8ab3495b953f0ec439649",
+  "backend": "teacher-reference",
+  "backend_fingerprint": "30dd038dc9ca061fa9a52dbdd2b3fabf6c5ccf844fd288951631a877040afd91",
+  "style": "aquario-v1",
+  "prompt": "AQPIX aquarium game sprite. Image 1 is the product identity reference. Additional images, if present, are STYLE ONLY: never copy their species. Exactly one isolated organism, anatomically recognizable. Fish and shrimp in horizontal orthographic side view facing RIGHT; plants upright, roots at bottom. Light from upper LEFT. Chunky 96x96 pixel art, one pixel dark navy contour, flat limited palette, hard stepped edges, no gradients, no dithering, no antialiasing. Center with 12 percent margin. Solid pure white background, no shadow, no scenery, no labels, no watermark. Preserve species markings. Subject: Camarão Red Sakura; Neocaridina davidi; category: shrimp.",
+  "seed": 1992846835,
+  "fingerprint": "e2be32a8f1ef395550bbf6ab96d74828d754f2692f6a462c3d779aa0cd862c56",
+  "qa": {
+    "colors": 11,
+    "occupancy": 0.1707,
+    "grid": 96,
+    "alpha": "binary"
+  },
+  "semantic_review": "required"
+}

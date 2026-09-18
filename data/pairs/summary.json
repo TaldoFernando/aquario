@@ -1,0 +1,7 @@
+{
+  "pairs": 3,
+  "species_groups": 3,
+  "train": 2,
+  "validation": 1,
+  "training_ready": false
+}

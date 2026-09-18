@@ -1,0 +1,1394 @@
+{
+  "total": 651,
+  "eligible": 603,
+  "issues": [
+    {
+      "id": "fd6fb795dbc0c857",
+      "name": "Peixe Abelhinha",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte",
+        "Tipo de água ambíguo: texto menciona mais de um regime de salinidade"
+      ]
+    },
+    {
+      "id": "1f907a2145ae00ff",
+      "name": "Agulhinha Comum",
+      "issues": [
+        "Tipo de água ambíguo: texto menciona mais de um regime de salinidade"
+      ]
+    },
+    {
+      "id": "b803aed887201391",
+      "name": "Botia Blue Red Tail",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "f7043e265819e330",
+      "name": "Labeo Bicolor",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte",
+        "temperature: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "9f062cc884cfc796",
+      "name": "Peixe Lápis",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "69024b4f298c0d6d",
+      "name": "Camarão Black Sakura",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "1195c660b4b43c90",
+      "name": "Camarão Blue Fantasy Dream",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "03435fb4bf526127",
+      "name": "Camarão Orange Sakura",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "76c86df3c72d4cc3",
+      "name": "Camarão Red Sakura",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "5eff2a6eeaad6e6b",
+      "name": "Camarão Yellow",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "ccc38d0867e16811",
+      "name": "Cascudo Aba Branca",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "d31774fd228f6dd3",
+      "name": "Cascudo Aba Laranja",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "5c5393b96caeb5b1",
+      "name": "Cascudo Açacu Pirarara",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "f022ddc2db3536c0",
+      "name": "Cascudo Ancistrus Albino Véu",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "ebdd809dfc21792f",
+      "name": "Cascudo L030",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "c2cece27fe212544",
+      "name": "Cascudo Bola de Neve",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "37d073b212dda60b",
+      "name": "Cascudo Borracha",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "c7bfc3f5403ba56f",
+      "name": "Cascudo Leopardo",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "7aabb6a4e8874ec9",
+      "name": "Cascudo Onça Amarela",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "45128ed9d54d21cc",
+      "name": "Cascudo Onça Preta",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "2996989dd0541268",
+      "name": "Cascudo Panaque",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "4430c7055eba6829",
+      "name": "Cascudo L333 King Zebra White/Yellow",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "d4210ed63d8af2f9",
+      "name": "Cascudo Pão Pigmentado",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "8f8190c8351da00f",
+      "name": "Cascudo Pepita de Ouro L018",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "9afb35d70f1e935a",
+      "name": "Cascudo Picota Ouro",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "4033c9efd5b529c1",
+      "name": "Cascudo Pitanga",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "df9ed4f20da5f95e",
+      "name": "Cascudo Preto Velho",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte",
+        "temperature: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "5daaa9246b963c14",
+      "name": "Cascudo Tigre",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "0de4f015518a7eec",
+      "name": "Tatia do Orinoco",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "58064fff7153db4e",
+      "name": "Tatia Gyrina",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "eb125d42ad3da2d3",
+      "name": "Julidochromis Ornatus",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "a7fa5fd13491ff56",
+      "name": "Neolamprologus Tretocephalus",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "30fc11f5ea8d76b8",
+      "name": "Acará do Congo Rosa",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte",
+        "temperature: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "6e0f4b209b8360e1",
+      "name": "Acará Bandeira Altum Selvagem",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte",
+        "temperature: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "d66651d845680729",
+      "name": "Acará Bandeira Leopoldi",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "194edc736308f06d",
+      "name": "Acará Bandeira Marmorato",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "d9794f10c83d3b2c",
+      "name": "Acará Bandeira Marmorato Véu",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "2add73141b6cac54",
+      "name": "Acará Bandeira Zebra Azul",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "476b2cd05480e758",
+      "name": "Acará Severum Gold",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "40bc92ae67dc8964",
+      "name": "Acará Disco Selvagem Blue",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "fb13166c8025d34f",
+      "name": "Biotecus opercularis",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "8fc838586f5eaff0",
+      "name": "Nannacara Adoketa",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "395113058d2a4fbd",
+      "name": "Comedor de Algas Chinês Bicolor",
+      "issues": [
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "6ad7e18c6f0e6923",
+      "name": "Coridora Aeneus Albina Super Véu",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "b659db1748127ab0",
+      "name": "Coridora Panda",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "4505437509b8a9b4",
+      "name": "Geophagus proximus",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "cac7ade8f3cdc746",
+      "name": "Peixes Matrizes para Reprodução",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "fe13d7df7627a3a1",
+      "name": "Espada Kohaku",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "77de5f6626435e53",
+      "name": "Espada Showa Tricolor",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "71956e032e354b71",
+      "name": "Molinésia Balão Dálmata",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "47a0d347bb5805f5",
+      "name": "Molinésia Balão Lyra Preta",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "f9de04c4598e18e7",
+      "name": "Molinésia Full Black",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "fa1b4ccddd165a59",
+      "name": "Molinésia Balão Prata",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "fff7bdf81ff294c6",
+      "name": "Molinésia Dálmata",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "6fbbcf770dc3aaff",
+      "name": "Molinésia Gold Black Lyra",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "26d09af495e7fdbf",
+      "name": "Molinésia Milk Pavão",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "b1bfcf83f9130e67",
+      "name": "Molinésia Milk Pavão Lyra",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "f633104908e33e23",
+      "name": "Molinésia Prata",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "67a1b0d241b06c1d",
+      "name": "Molinésia Prata Lyra",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "67ee9144e4afe61e",
+      "name": "Molinésia Tangerina",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "08ec6c4782d03830",
+      "name": "Molinésia Vermelha Velífera Super Red Albina",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "16be6c86dcd517fe",
+      "name": "Cruzeiro do Sul",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "a0fd7210be8b4fe9",
+      "name": "Peixe Borboleta",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "5d637e8f0b9ea075",
+      "name": "Rásbora Arlequim",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "c0b89dd67027f840",
+      "name": "Rasbora Hengeli",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "c25b098d39e559b3",
+      "name": "Rasbora Sawbwa Macho",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "0cb020a541f998db",
+      "name": "Tanictis",
+      "issues": [
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "d144fcfb317db591",
+      "name": "Tetra Buenos Aires",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "e2213e514dd29d4d",
+      "name": "Tetra Negro",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "e6ebc4cdf875baed",
+      "name": "Tetra Neon Negro",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "848e52bc23214470",
+      "name": "Bolsa de Pastor",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "9a0148308a4ab3ab",
+      "name": "Capa de Fava",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "bf3772ab859207cc",
+      "name": "Capote de Coqueiro",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "6529f7b534713268",
+      "name": "Casca Estrelinha",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "c8a5837d4e021759",
+      "name": "Casca Pereirinha",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "04ba741d178a249b",
+      "name": "Folha de Catappa  C/ 6 folhas",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "f29639eb45a2ed14",
+      "name": "Folha de Espinheira Santa",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "c7a9d972d731f800",
+      "name": "Folha  Coração",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "818fe264a5099b1b",
+      "name": "Folha Moeda",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "7ac533bf5de5508f",
+      "name": "Jacarandá Gigante",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "0c31624b4446116e",
+      "name": "Jacarandá Mimoso",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "3f776d8524569f76",
+      "name": "Pau-Terra Mirim",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "5b402cc0951aab08",
+      "name": "Semente de Bromélia",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "575fd88cf66f51fa",
+      "name": "Vagem Caracol",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "3689bf197c98135d",
+      "name": "ROCHA MARINHA ZANZIBAR 40 A 60CM (KG)",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "27560b4d222bce90",
+      "name": "ROCHA DRAGON STONE",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "94c4182bcbc7060c",
+      "name": "Toca para peixes",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "e9afafbde8d4b244",
+      "name": "Fava de Olho de  Boi",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "f9c0c5ba5b73d292",
+      "name": "Sterculia Striata",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "cb9c3162440eb2eb",
+      "name": "OOLITE SAND OCEAN TECH 8KG",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte",
+        "Tipo de água ambíguo: texto menciona mais de um regime de salinidade"
+      ]
+    },
+    {
+      "id": "3c2d20fac37edf0e",
+      "name": "SUBSTRATO SNOW WHITE 25 KG",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte",
+        "Tipo de água ambíguo: texto menciona mais de um regime de salinidade"
+      ]
+    },
+    {
+      "id": "caff47610f9b9f80",
+      "name": "Coridora Albina",
+      "issues": [
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "fbe16df19edc35cc",
+      "name": "Disco Selvagem",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "befaf27fc38e4d84",
+      "name": "Disco Selvagem",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "1f66ed584e83fb86",
+      "name": "COMPRA DE CARDUME: COMPRE 10 CAMARÕES E LEVE 11",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "337507b5bac23b11",
+      "name": "COMPRA DE CARDUME: COMPRE 10 CAMARÕES E LEVE 11",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "b070bb4dd62a5dd0",
+      "name": "COMPRA DE CARDUME: COMPRE 10 CAMARÕES E LEVE 11",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "ae20e879405189ae",
+      "name": "COMPRA DE CARDUME: COMPRE 10 CAMARÕES E LEVE 11",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "260fdebc7ddf60e2",
+      "name": "COMPRA DE CARDUME: COMPRE 10 CAMARÕES E LEVE 11",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "3e3a2ae058ab18c1",
+      "name": "COMPRA DE CARDUME: COMPRE 10 CAMARÕES E LEVE 11",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "9c480b682b15647e",
+      "name": "COMPRA DE CARDUME: COMPRE 10 CAMARÕES E LEVE 11",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "7343187e097649dc",
+      "name": "COMPRA DE CARDUME: COMPRE 10 CAMARÕES E LEVE 11",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "674f7fb041e19559",
+      "name": "COMPRA DE CARDUME: COMPRE 10 CAMARÕES E LEVE 11",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "012faff745c4a148",
+      "name": "COMPRA DE CARDUME: COMPRE 10 E LEVE 11 PEIXES",
+      "issues": [
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "c8bc61c342bcc9b3",
+      "name": "COMPRA DE CARDUME: COMPRE 10 E LEVE 11",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "52ff5cab10226b63",
+      "name": "COMPRA DE CARDUME: COMPRE 10 E LEVE 11 PEIXES",
+      "issues": [
+        "temperature: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "dba372cebec25189",
+      "name": "Manutenção de lagos e aquários",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte",
+        "Tipo de água ambíguo: texto menciona mais de um regime de salinidade"
+      ]
+    },
+    {
+      "id": "3cd7598814c9c584",
+      "name": "Iriatherina",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "f1ca349e35821de1",
+      "name": "Baiacu Green Spotted",
+      "issues": [
+        "Tipo de água ambíguo: texto menciona mais de um regime de salinidade"
+      ]
+    },
+    {
+      "id": "04eb1b4393dd19f4",
+      "name": "Botia Red Fin Tiger",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "d14bfc3c4dcbbd9b",
+      "name": "Cobrinha Kuhli Black",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "cbb052bac766684a",
+      "name": "Goby Sabão",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte",
+        "temperature: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "dcc5abb921bb656e",
+      "name": "Camarão Fantasma",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "89092aa56db7d0a1",
+      "name": "Camarão Red Rili",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "25f30bd5aeb4705e",
+      "name": "Camarão Green Jade",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "88c00420bce3dd52",
+      "name": "Cascudo L021 Abacaxi",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "638a9e7e761bbc74",
+      "name": "Cascudo Ancistrus Spotted",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "c1151101b5e3078a",
+      "name": "Cascudo Ancistrus Spotted Véu",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "4204a1d337a8f27a",
+      "name": "Cascudo Angelicus",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "f1e5b079ddf112e9",
+      "name": "Cascudo",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "87aa027960f81c1e",
+      "name": "Cascudo  Banjo",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "db4e24c87a7c2f98",
+      "name": "Cascudo Bola Branca",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "5cbe0cc65c21ad32",
+      "name": "Cascudo Cara Chata",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "b6c7f743fc0b7957",
+      "name": "Cascudo Galaxia",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "df90aaf0326744f3",
+      "name": "Cascudo Parnaibai Sertanejo Muzuel",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "492b22abf5365bda",
+      "name": "Cascudo Pedra L095",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "0500614c39072b3f",
+      "name": "Cascudo Rineloricaria Fallax",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "03ea5ea01c172e8c",
+      "name": "Chilodus",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte",
+        "temperature: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "a310e08a91fe7aec",
+      "name": "Zebra Redonda",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte",
+        "temperature: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "86f02f925e9fe503",
+      "name": "Acará Bandeira selvagem",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "20f3834f111c812d",
+      "name": "Acará Bandeira Albino",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "70a9e5f1911ecac1",
+      "name": "Acará Bandeira Platinum Dálmata",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "e2c3d200c18c7439",
+      "name": "Acará Bandeira Falso Altum",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "fad92b3ee1246691",
+      "name": "Acará Bandeira Full Black",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "990b90f80612a295",
+      "name": "Acará Bandeira Ouro",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "6d9ef308534db65f",
+      "name": "Acará Bandeira Black Pinoy",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "15fc47fee0065f04",
+      "name": "Acará Bandeira Siamês",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "495fea7d5bc077f7",
+      "name": "Acará Bandeira Siamês Koi",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "12fb68ba56f53f3a",
+      "name": "Kribensis",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "0ed07dbb294031ef",
+      "name": "Papilochromis",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "c38c7fc0b218d157",
+      "name": "Coridora Kanei",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "d8b6211a997fe227",
+      "name": "Coridora Schwartzi",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "ad46a7c61af6e2a2",
+      "name": "Megalodora",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "af3c2a6e94232a4d",
+      "name": "Killifish Gardneri",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "886c661bddd9e024",
+      "name": "Killifish Golden Panchax",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "a8376a8b1f1aaefc",
+      "name": "Killifish Gardneri Lafia Gold",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "a4e11a7902989ec7",
+      "name": "Kinguio Telescópio Preto",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "1530f05fb98115c1",
+      "name": "Mussum",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "23774eef4fc3e8f7",
+      "name": "Molinésia Tangerina Lyra",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "033177b4d0ba0502",
+      "name": "Peixe Lápis Dourado CRIADO",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "8c5c0815538966e6",
+      "name": "Peixe Lápis Bengalinha",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "0e0a85bb57e4d5a6",
+      "name": "Rásbora Esmeralda",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "6f6afbf3b696f77e",
+      "name": "Tetra Colibri",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "795dfaf0c97fafa2",
+      "name": "Tetra Neon Negro Albino",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "05e42078f04ac4cf",
+      "name": "Tetra Red Cherry",
+      "issues": [
+        "temperature: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "cc77ad3ab6b53b55",
+      "name": "Tetra Vela",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "758d3148216e545b",
+      "name": "Labeo Bicolor Albino",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte",
+        "temperature: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "ee341c50cd707faa",
+      "name": "Aulonocara Kandeense",
+      "issues": [
+        "Tipo de água ambíguo: texto menciona mais de um regime de salinidade"
+      ]
+    },
+    {
+      "id": "96a94f2cef86dcbf",
+      "name": "Botia Tigre",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "5e3b16a2cbd357fe",
+      "name": "Camarão Wild Type",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "dc21b5dd77072e43",
+      "name": "Cascudo Starlight",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "dd8ef0b38c2eae9a",
+      "name": "Cascudo Panaqolus Tankei",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "7818a8a3da299192",
+      "name": "Cascudo Rineloricaria Lanceolata",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "25c55722fe63aa0e",
+      "name": "Rineloricaria Melini",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "6bdf5ab288e3ae5b",
+      "name": "Corydora Orange Venezuela",
+      "issues": [
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "2aa1ca756074281b",
+      "name": "Peixe Cachimbo",
+      "issues": [
+        "Tipo de água ambíguo: texto menciona mais de um regime de salinidade"
+      ]
+    },
+    {
+      "id": "19e6f11ead6b732f",
+      "name": "Tamboatá Anão Albino",
+      "issues": [
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "057cbd45fb02c40e",
+      "name": "Coridora Anã",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte",
+        "temperature: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "938eae6579e30d09",
+      "name": "Coridora Pigmeu",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "9c5ead1c3426c1c3",
+      "name": "Killifish Cauda de Lira Chocolate",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "7ca397f45032109d",
+      "name": "Kit Jumbo",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "f55660ea02364ebe",
+      "name": "Cobrinha Kuhli  Gold",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "a42dd145964d1e0b",
+      "name": "Goby Pavão",
+      "issues": [
+        "Tipo de água ambíguo: texto menciona mais de um regime de salinidade"
+      ]
+    },
+    {
+      "id": "168ae40cd2fa2813",
+      "name": "Geophagus Heckelli Albino",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "2eff9de1f135a1da",
+      "name": "Kribensis Albino",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "38c075c3d4e1629d",
+      "name": "Ramirezi Blue German Black Balão",
+      "issues": [
+        "temperature: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "e9c671a5e12d1d5c",
+      "name": "Ramirezi Blue German Black",
+      "issues": [
+        "temperature: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "6f8e53c9fa828729",
+      "name": "Ramirezi Super Dark Knight Balão",
+      "issues": [
+        "temperature: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "43ec3f0c8a08db92",
+      "name": "Ramirezi Super Dark Knight",
+      "issues": [
+        "temperature: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "07304af8c781bb50",
+      "name": "Blue Daisy Ricefish",
+      "issues": [
+        "Tipo de água ambíguo: texto menciona mais de um regime de salinidade"
+      ]
+    },
+    {
+      "id": "fd623b13becbdd73",
+      "name": "COMPRA DE CARDUME: COMPRE 10 PEIXES E LEVE 11",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "9da8bd26d4440f4d",
+      "name": "Rásbora Merah",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "04329fb7aac52290",
+      "name": "Rásbora Anã",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "6631c7fbe32dd543",
+      "name": "Rasbora Espei Red Cooper",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "3868c315be8199fa",
+      "name": "Rásbora Green Neon Verde",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "0bef1f721517738f",
+      "name": "Rásbora Least",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "2046c1028d150899",
+      "name": "Rásbora Mosquito",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "4077981c898844ec",
+      "name": "Tetra Jalapão",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "c328351d6534472e",
+      "name": "COMPRA DE CARDUME: COMPRE 10 PEIXES E LEVE 11",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "b43f1e1469eb5487",
+      "name": "Tetra Aruanã  (Raridade!!!)",
+      "issues": [
+        "ph: valor pontual não estabelece faixa de tolerância; verificar fonte"
+      ]
+    },
+    {
+      "id": "18c3d4d2692df8c9",
+      "name": "Cistos para eclosão de artêmias",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    },
+    {
+      "id": "9d5d17a5923276f9",
+      "name": "Ração com enriquecimento Kauar",
+      "issues": [
+        "ph: ausente ou fora dos limites de triagem; verificar fonte",
+        "temperature: ausente ou fora dos limites de triagem; verificar fonte"
+      ]
+    }
+  ]
+}

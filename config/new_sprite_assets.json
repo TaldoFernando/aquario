@@ -1,0 +1,236 @@
+[
+ {
+  "species": "Agulhinha Comum",
+  "kind": "fish",
+  "sprite_file": "peixe_agulha_em_pixel_art.png",
+  "asset": "1f907a2145ae00ff.png"
+ },
+ {
+  "species": "Agulhinha Prata",
+  "kind": "fish",
+  "sprite_file": "peixe_agulha_em_pixel_art_retro.png",
+  "asset": "07676de06180f920.png"
+ },
+ {
+  "species": "Balashark",
+  "kind": "fish",
+  "sprite_file": "peixe_prata_pixel_art_em_perfil.png",
+  "asset": "c41393b3159162b6.png"
+ },
+ {
+  "species": "Botia Blue Red Tail",
+  "kind": "fish",
+  "sprite_file": "peixe_pixelado_de_cauda_vermelha.png",
+  "asset": "b803aed887201391.png"
+ },
+ {
+  "species": "Botia Lohachata Yoyo",
+  "kind": "fish",
+  "sprite_file": "peixe_loach_pixelado_turquesa.png",
+  "asset": "c26c65a52c7b0c24.png"
+ },
+ {
+  "species": "Goby Dardo",
+  "kind": "fish",
+  "sprite_file": "peixe_gobí_em_pixel_art_retrô.png",
+  "asset": "b54ce5fb547c2518.png"
+ },
+ {
+  "species": "Pseudomugil  Luminatus",
+  "kind": "fish",
+  "sprite_file": "peixe_gobí_listrado_em_pixel_art.png",
+  "asset": "666b511a0cd842a5.png"
+ },
+ {
+  "species": "Labeo Bicolor",
+  "kind": "fish",
+  "sprite_file": "peixe_preto_com_nadadeiras_rubras.png",
+  "asset": "f7043e265819e330.png"
+ },
+ {
+  "species": "Labeo Frenatus Albino",
+  "kind": "fish",
+  "sprite_file": "peixe_albino_pixelado_com_barbatanas_vermelhas.png",
+  "asset": "fc5275c645f1f8e2.png"
+ },
+ {
+  "species": "Trewavasae Red Top Albino",
+  "kind": "fish",
+  "sprite_file": "peixe_pixelado_albino_com_nadadeiras_laranjas.png",
+  "asset": "46cda20a93be00f7.png"
+ },
+ {
+  "species": "Trewavasae Red Top",
+  "kind": "fish",
+  "sprite_file": "peixe_azul_de_crista_vermelha_em_pixel_art.png",
+  "asset": "a8d398a7c3f6caf7.png"
+ },
+ {
+  "species": "Melanotaenia Lacustri",
+  "kind": "fish",
+  "sprite_file": "peixe_arco_íris_em_pixel_art.png",
+  "asset": "337ca8e26f7d7ef6.png"
+ },
+ {
+  "species": "Melanotaenia Blue Neon Anã",
+  "kind": "fish",
+  "sprite_file": "peixe_arco_íris_neon_em_pixel_art.png",
+  "asset": "d8f36a06e2a4f127.png"
+ },
+ {
+  "species": "Melanotaenia Trifasciata Gold",
+  "kind": "fish",
+  "sprite_file": "peixe_arco_íris_dourado_em_pixel_art.png",
+  "asset": "0e3c70d83f14ad8c.png"
+ },
+ {
+  "species": "Melanotaenia Maçã",
+  "kind": "fish",
+  "sprite_file": "peixe_arco_íris_pixelado_dourado.png",
+  "asset": "b8ea75fd38749f88.png"
+ },
+ {
+  "species": "Peixe Lápis",
+  "kind": "fish",
+  "sprite_file": "peixe_lápis_pixel_art_retrô.png",
+  "asset": "9f062cc884cfc796.png"
+ },
+ {
+  "species": "Peixe Paraíso Albino",
+  "kind": "fish",
+  "sprite_file": "peixe_paraíso_albino_em_pixel_art.png",
+  "asset": "a24a39a43096fa4b.png"
+ },
+ {
+  "species": "Peixe Paraíso",
+  "kind": "fish",
+  "sprite_file": "peixe_paraíso_em_pixel_art_retro.png",
+  "asset": "712fe17f9c3a488d.png"
+ },
+ {
+  "species": "Tetra Vidro",
+  "kind": "fish",
+  "sprite_file": "peixe_transparente_iridescente_em_pixel_art.png",
+  "asset": "5047cd8da9e9506d.png"
+ },
+ {
+  "species": "Aulonocara Fire Fish",
+  "kind": "fish",
+  "sprite_file": "peixe_ciclídeo_pixelado_vibrante.png",
+  "asset": "8df605a6aaa3b72d.png"
+ },
+ {
+  "species": "Barbo Five Banded",
+  "kind": "fish",
+  "sprite_file": "peixe_pixelado_listrado_em_perfil.png",
+  "asset": "c353d1048940c9e5.png"
+ },
+ {
+  "species": "Barbo Conchônio Cereja",
+  "kind": "fish",
+  "sprite_file": "sprite_pixelado_de_barbo_cereja.png",
+  "asset": "6e01bdaafe5090c0.png"
+ },
+ {
+  "species": "Barbus Denisoni Gold",
+  "kind": "fish",
+  "sprite_file": "peixe_pixelado_denison_colorido.png",
+  "asset": "8804c73232f562f7.png"
+ },
+ {
+  "species": "Barbo Denisoni",
+  "kind": "fish",
+  "sprite_file": "peixe_pixel_art_com_listras_vermelhas_e_pretas.png",
+  "asset": "7a1ecef0bc8ce3fa.png"
+ },
+ {
+  "species": "Barbus Ouro",
+  "kind": "fish",
+  "sprite_file": "peixe_barbado_dourado_em_pixel_art.png",
+  "asset": "46fe2754883ba3f1.png"
+ },
+ {
+  "species": "Barbus Sumatra",
+  "kind": "fish",
+  "sprite_file": "barbo_tigre_em_pixel_art.png",
+  "asset": "eb2f6117e05a0868.png"
+ },
+ {
+  "species": "Barbus Sumatra Verde",
+  "kind": "fish",
+  "sprite_file": "peixe_tigre_pixel_art_em_fundo_transparente.png",
+  "asset": "4d77071941cf4749.png"
+ },
+ {
+  "species": "Barbo Titeia Super Red",
+  "kind": "fish",
+  "sprite_file": "peixe_pixel_art_vermelho_em_sprite.png",
+  "asset": "2f46b1af3c9dd3ff.png"
+ },
+ {
+  "species": "Barbo Titeia Albino Super Red",
+  "kind": "fish",
+  "sprite_file": "peixe_pixelado_vermelho_em_perfil.png",
+  "asset": "57e0511071fa2f80.png"
+ },
+ {
+  "species": "Nano Camarão Filtrador",
+  "kind": "shrimp",
+  "sprite_file": "camarão_pixel_art_translúcido_em_perfil.png",
+  "asset": "4a53938c3b5fe42b.png"
+ },
+ {
+  "species": "Camarão Black Sakura",
+  "kind": "shrimp",
+  "sprite_file": "camarão_preto_pixelado_em_perfil.png",
+  "asset": "69024b4f298c0d6d.png"
+ },
+ {
+  "species": "Camarão Blue Fantasy Dream",
+  "kind": "shrimp",
+  "sprite_file": "camarão_azul_em_pixel_art.png",
+  "asset": "1195c660b4b43c90.png"
+ },
+ {
+  "species": "Camarão Orange Sakura",
+  "kind": "shrimp",
+  "sprite_file": "sprite_de_camarão_laranja_pixelado.png",
+  "asset": "03435fb4bf526127.png"
+ },
+ {
+  "species": "Camarão Red Sakura",
+  "kind": "shrimp",
+  "sprite_file": "camarão_sakura_vermelho_em_pixel_art.png",
+  "asset": "76c86df3c72d4cc3.png"
+ },
+ {
+  "species": "Camarão Yellow",
+  "kind": "shrimp",
+  "sprite_file": "camarão_amarelo_em_pixel_art.png",
+  "asset": "5eff2a6eeaad6e6b.png"
+ },
+ {
+  "species": "Jiboia",
+  "kind": "plant",
+  "sprite_file": "jiboia_pixelada_com_raízes_expostas.png",
+  "asset": "9fc9dadab4393058.png"
+ },
+ {
+  "species": "Grama Alta",
+  "kind": "plant",
+  "sprite_file": "tufo_de_grama_em_pixel_art.png",
+  "asset": "12a5540eb1e8cc31.png"
+ },
+ {
+  "species": "Anubia barteri Coffeefolia",
+  "kind": "plant",
+  "sprite_file": "planta_anubias_pixelada_com_raízes.png",
+  "asset": "dbaf4483adf769b4.png"
+ },
+ {
+  "species": "Echinodorus amazonicus",
+  "kind": "plant",
+  "sprite_file": "planta_aquática_pixelada_com_raízes_douradas.png",
+  "asset": "2f0ac0cd06716d93.png"
+ }
+]

@@ -1,0 +1,13 @@
+{
+  "model_id": "Qwen/Qwen-Image",
+  "pipeline": "QwenImageImg2ImgPipeline",
+  "revision": "main",
+  "resolution": 768,
+  "strength": 0.65,
+  "steps": 40,
+  "cfg": 4.0,
+  "seed": 42,
+  "offload": "model",
+  "prompt": "A single {subject}, aquarium game sprite in precise 16-bit pixel art. Preserve the reference organism's silhouette, distinctive colors, markings, fins, antennae or leaves. Orthographic side view for animals, upright front view for plants. One isolated subject, centered, entirely inside the image, generous white margin. Chunky square pixels, crisp stepped edges, flat limited colors, dark navy outline one logical pixel thick, consistent upper-left lighting, subtle cream highlights. Logical 96x96 pixel grid. Pure white background, no cast shadow, no text, no watermark.",
+  "negative_prompt": "photograph, photorealistic, blurry, smooth gradient, antialiasing, 3d render, multiple subjects, extra fins, extra eyes, duplicate animal, text, watermark, checkerboard background, scenery, tank, gravel, cast shadow, cropped subject"
+}

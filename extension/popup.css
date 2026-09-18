@@ -1,0 +1,23 @@
+:root{color-scheme:dark;font-family:system-ui,-apple-system,sans-serif;color:#e7eee5;background:#102328}*{box-sizing:border-box}body{margin:0;width:420px}header{padding:24px 22px 18px;display:flex;align-items:center;justify-content:space-between}small{font-size:9px;letter-spacing:2px;color:#9aaea3}h1{font-family:Georgia,serif;font-weight:400;font-size:32px;margin:7px 0 0}h1 span{color:#aec58c;margin-left:12px}.pill{font-size:10px;color:#d5ddb2;background:#263d3a;border:1px solid #476357;border-radius:20px;padding:8px}.tank{position:relative;margin:0 14px;border:1px solid #42615a;border-radius:15px;overflow:hidden}canvas{width:100%;display:block;image-rendering:pixelated}.tank-label{position:absolute;top:15px;width:100%;text-align:center;color:#b6d3c2;font-family:Georgia,serif;font-style:italic;font-size:13px}main{padding:22px}h2{font-size:15px;font-weight:500;margin:0}.row{display:flex;gap:9px;align-items:center;justify-content:space-between}.muted,#count{font-size:11px;color:#91a69b}.muted{margin:7px 0 15px;line-height:1.5}button,select{font:inherit;color:inherit;border:1px solid #496056;background:#203830;border-radius:9px;padding:10px;cursor:pointer}button:hover{background:#304d3e}button:disabled{opacity:.5;cursor:wait}select{min-width:0;flex:1;font-size:12px}label{display:block;font-size:11px;color:#c4d0bf;margin:12px 0 8px}.primary{width:100%;background:#c5d5a2;color:#20352e;border:0;font-weight:600;margin:13px 0}.primary:hover{background:#d4e2b4}.settings{border-top:1px solid #334b43;border-bottom:1px solid #334b43;padding:16px 0;margin-bottom:16px;display:flex;align-items:center;gap:12px}.settings strong{font-size:12px}.settings p{font-size:10px;color:#91a69b;margin:5px 0}.settings button{font-size:10px}#selected .animal{display:flex;align-items:center;gap:12px;border:1px solid #344a42;border-radius:10px;padding:5px 9px;margin-bottom:7px}.animal img{width:42px;height:42px;image-rendering:pixelated}.animal div{flex:1}.animal strong{display:block;font-size:12px;font-weight:500}.animal small{font-size:10px;letter-spacing:0}.animal button{border:0;background:none;color:#9ab09e;padding:5px}#warnings{font-size:11px;color:#e4c999;line-height:1.5;max-height:140px;overflow:auto}#warnings a{color:#a8cdbb}#warnings p{margin:7px 0}#message{font-size:11px;color:#d4d9a6;line-height:1.5;margin-bottom:0}footer{text-align:center;padding:0 0 20px;font:italic 12px Georgia,serif;color:#90a69a}[hidden]{display:none!important}button:focus-visible,select:focus-visible{outline:2px solid #d5e4b7;outline-offset:2px}
+.combo{position:relative;flex:1;min-width:0}
+.combo>#species-toggle{width:100%;display:flex;align-items:center;gap:8px;font-size:12px}
+#species-thumb{width:22px;height:22px;image-rendering:pixelated;object-fit:contain;flex:none}
+#species-label{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.caret{opacity:.6;font-size:10px}
+.combo-list{position:absolute;z-index:30;left:0;right:0;top:calc(100% + 4px);max-height:230px;overflow:auto;background:#16292a;border:1px solid #496056;border-radius:9px;padding:4px;display:flex;flex-direction:column;gap:2px;box-shadow:0 12px 30px #000a}
+.combo-item{display:flex;align-items:center;gap:8px;width:100%;text-align:left;background:none;border:0;border-radius:7px;padding:5px 7px;font-size:12px;cursor:pointer}
+.combo-item img{width:30px;height:30px;image-rendering:pixelated;object-fit:contain;flex:none}
+.combo-item:hover,.combo-item.active{background:#2c493c}
+.combo-preview{position:absolute;z-index:40;right:0;bottom:calc(100% + 6px);width:104px;height:104px;padding:6px;background:#16292a;border:1px solid #496056;border-radius:10px;box-shadow:0 12px 30px #000a;pointer-events:none}
+.combo-preview img{width:100%;height:100%;image-rendering:pixelated;object-fit:contain}
+.manual{margin:16px 0}
+.manual .row{gap:8px;margin-bottom:4px}
+.manual input{width:100%;flex:1;min-width:0;font:inherit;color:inherit;border:1px solid #496056;background:#203830;border-radius:9px;padding:9px}
+.manual input:focus-visible{outline:2px solid #d5e4b7;outline-offset:2px}
+.manual .mini{font-size:10px;padding:8px 10px;flex:none}
+#custom-place{margin-top:6px}
+.tank-actions{margin:10px 14px 0;display:flex;justify-content:flex-end}
+.tank-actions button{font-size:11px;padding:7px 12px}
+:root{--control-h:38px}
+button,select,input:not([type=checkbox]){height:var(--control-h)}
+.tank-actions button,.manual .mini,.settings button{height:var(--control-h)}

@@ -1,0 +1,11 @@
+{
+  "review": "visual inspection in this session",
+  "items": {
+    "fd6fb795dbc0c857": "right-facing striped goby; accepted for prototype",
+    "76c86df3c72d4cc3": "right-facing red shrimp; accepted for prototype",
+    "87db7c1cbf705a85": "upright broad-leaf plant; baked checkerboard removed by normalization; accepted for prototype"
+  },
+  "teacher": "Codex built-in ImageGen",
+  "prompts": "individual .prompt.txt files",
+  "not_a_validation_of_qwen": true
+}

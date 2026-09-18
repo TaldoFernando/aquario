@@ -1,0 +1,23 @@
+[
+  {
+    "id": "fd6fb795dbc0c857",
+    "source_url": "https://images.tcdn.com.br/img/img_prod/749804/peixe_abelhinha_2_a_3_cm_brachygobius_doriae_205_1_74682e4870656ab35821e9ce645bb0d0.jpg",
+    "group": "b9ed6468a70dbbac622dfbed45010da655128fed733855b6c0bcaa3c5f0126d7",
+    "generator": "teacher-reference",
+    "source_sha256": "4771c2c3d634b49a639c0f5a816e1e6133fec18c5ce5149986402dd480391157"
+  },
+  {
+    "id": "76c86df3c72d4cc3",
+    "source_url": "https://images.tcdn.com.br/img/img_prod/749804/camarao_red_sakura_1_a_2_cm_neocaridina_davidi_875_1_256181d48cb7c9d73be024e5cd8e22ad.jpg",
+    "group": "84ed2f297d55f2f3a3a0fb8851eb8693af37d0fdb15c01da00296580e6bd6b86",
+    "generator": "teacher-reference",
+    "source_sha256": "ade94603b9477967302f06e8b954801760f66ac0b2e8ab3495b953f0ec439649"
+  },
+  {
+    "id": "87db7c1cbf705a85",
+    "source_url": "https://images.tcdn.com.br/img/img_prod/749804/anubia_nana_anubias_barteri_porcao_2339_1_b24a6b0a4b406a496288b50474faed76.jpg",
+    "group": "bd01f0ede1caa6c95b60c029d95f2b198c7f4e7da8fa17effc87cf7571064477",
+    "generator": "teacher-reference",
+    "source_sha256": "d0ad083a44c43478d2b2191b6e1186b0d2cf7ea3da573e9c198221636c4b3a3c"
+  }
+]
